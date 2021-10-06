@@ -2572,7 +2572,7 @@ a {
     padding: 35px 0;
   }
   .gc-content {
-    position: absolute;
+    position: fixed;
     opacity: 0;
     pointer-events: none;
     padding: 40px 0;
@@ -3241,7 +3241,7 @@ a {
 }
 
 .tab-hide {
-  position: absolute;
+  position: fixed;
   opacity: 0;
   pointer-events: none;
 }
